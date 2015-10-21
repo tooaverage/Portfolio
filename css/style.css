@@ -116,18 +116,19 @@ h2 {
 
 /* line 88, ../sass/style.sass */
 #phone2 img {
-  width: 400px;
+  width: 90%;
   display: block;
-  margin-left: 30%;
+  margin-left: 15%;
   margin-right: 0px;
 }
 
 /* line 95, ../sass/style.sass */
 .rungospot img {
-  width: 350px;
+  size: 90%;
+  max-width: 480px;
 }
 
-/* line 98, ../sass/style.sass */
+/* line 99, ../sass/style.sass */
 .routetitle {
   text-align: center;
   color: #606060;
@@ -139,7 +140,7 @@ h2 {
   font-size: 2em;
 }
 
-/* line 108, ../sass/style.sass */
+/* line 109, ../sass/style.sass */
 .label {
   display: inline;
   padding: 0.5em 1.8em 0.5em;
@@ -155,7 +156,7 @@ h2 {
   text-transform: none;
 }
 
-/* line 122, ../sass/style.sass */
+/* line 123, ../sass/style.sass */
 .label-primary {
   background-color: white;
   border-color: #0877ba;
@@ -163,14 +164,14 @@ h2 {
   border-width: 1px;
 }
 
-/* line 128, ../sass/style.sass */
+/* line 129, ../sass/style.sass */
 h4 {
   color: #606060;
   text-align: left;
   font-size: 2.5em;
 }
 
-/* line 133, ../sass/style.sass */
+/* line 134, ../sass/style.sass */
 .rungospot {
   width: 100%;
   height: 42em;
@@ -179,73 +180,73 @@ h4 {
   padding-top: 30px;
   padding-bottom: 40px;
 }
-/* line 141, ../sass/style.sass */
+/* line 142, ../sass/style.sass */
 .rungospot h4 {
   text-align: left;
   text-transform: none;
 }
-/* line 144, ../sass/style.sass */
+/* line 145, ../sass/style.sass */
 .rungospot p {
   color: #606060;
   text-align: left;
   font-weight: 100;
 }
 
-/* line 150, ../sass/style.sass */
+/* line 151, ../sass/style.sass */
 #contact {
   background-color: #0877ba;
   width: 100%;
 }
 
-/* line 154, ../sass/style.sass */
+/* line 155, ../sass/style.sass */
 footer {
   background-color: #444444;
   height: 140px;
   padding-top: 20px;
   text-align: center;
 }
-/* line 159, ../sass/style.sass */
+/* line 160, ../sass/style.sass */
 footer .col-md-6 {
   text-align: center;
   padding-bottom: 40px;
 }
 
-/* line 163, ../sass/style.sass */
+/* line 164, ../sass/style.sass */
 .shoutout {
   text-align: center;
 }
 
-/* line 166, ../sass/style.sass */
+/* line 167, ../sass/style.sass */
 #contactForm {
   padding-bottom: 40px;
   margin-bottom: 20px;
 }
 
-/* line 170, ../sass/style.sass */
+/* line 171, ../sass/style.sass */
 .textgroup {
   padding-top: 50px;
 }
 
-/* line 173, ../sass/style.sass */
+/* line 174, ../sass/style.sass */
 .statsdetail2 {
   padding-bottom: 110px;
 }
 
-/* line 176, ../sass/style.sass */
+/* line 177, ../sass/style.sass */
 .col-md-6 {
   text-align: left;
 }
 
-/* line 179, ../sass/style.sass */
+/* line 180, ../sass/style.sass */
 .section1 {
   height: 250px;
   text-align: center;
 }
-/* line 182, ../sass/style.sass */
+/* line 183, ../sass/style.sass */
 .section1 p {
   margin-bottom: 15px;
 }
-/* line 184, ../sass/style.sass */
+/* line 185, ../sass/style.sass */
 .section1 h3 {
   color: #606060;
   padding: 40px;
@@ -253,53 +254,53 @@ footer .col-md-6 {
   line-height: 2em;
 }
 
-/* line 193, ../sass/style.sass */
+/* line 194, ../sass/style.sass */
 .intro-body {
   text-align: right;
 }
-/* line 196, ../sass/style.sass */
+/* line 197, ../sass/style.sass */
 .intro-body #iphone1 {
   text-align: center;
 }
-/* line 198, ../sass/style.sass */
+/* line 199, ../sass/style.sass */
 .intro-body #iphone1 img {
-  height: 600px;
+  height: 70%;
 }
 
-/* line 201, ../sass/style.sass */
+/* line 202, ../sass/style.sass */
 #ios {
   text-align: center;
   height: 52px;
 }
 
-/* line 205, ../sass/style.sass */
+/* line 206, ../sass/style.sass */
 #android {
   text-align: center;
   width: 150px;
 }
 
-/* line 209, ../sass/style.sass */
+/* line 210, ../sass/style.sass */
 .runningstats {
   padding-top: 110px;
 }
-/* line 211, ../sass/style.sass */
+/* line 212, ../sass/style.sass */
 .runningstats p {
   margin-right: 30%;
   font-weight: 200;
 }
 
-/* line 216, ../sass/style.sass */
+/* line 217, ../sass/style.sass */
 .brand-heading {
   padding-top: 60px;
   text-transform: none;
   margin-bottom: 0px;
 }
-/* line 220, ../sass/style.sass */
+/* line 221, ../sass/style.sass */
 .brand-heading img {
   width: 70%;
 }
 
-/* line 223, ../sass/style.sass */
+/* line 224, ../sass/style.sass */
 #boxback {
   background-color: black;
   background-color: rgba(0, 0, 0, 0.83);
@@ -308,48 +309,48 @@ footer .col-md-6 {
   margin: 0 auto;
   padding-top: 20px;
 }
-/* line 224, ../sass/style.sass */
+/* line 225, ../sass/style.sass */
 #boxback h1 {
   opacity: 0.99;
 }
 
-/* line 235, ../sass/style.sass */
+/* line 236, ../sass/style.sass */
 #contacts {
   background-color: #0877ba;
 }
-/* line 237, ../sass/style.sass */
+/* line 238, ../sass/style.sass */
 #contacts .row {
   background-color: #0877ba;
 }
-/* line 239, ../sass/style.sass */
+/* line 240, ../sass/style.sass */
 #contacts .well {
   background-color: #0877ba;
 }
 
-/* line 242, ../sass/style.sass */
+/* line 243, ../sass/style.sass */
 .btn {
   float: left;
   background-color: #3eb6ff;
 }
 
-/* line 246, ../sass/style.sass */
+/* line 247, ../sass/style.sass */
 .sayhi {
   color: white;
   padding: 0;
   padding-top: 30px;
 }
 
-/* line 251, ../sass/style.sass */
+/* line 252, ../sass/style.sass */
 #phone2 {
   text-align: right;
 }
 
-/* line 255, ../sass/style.sass */
+/* line 256, ../sass/style.sass */
 .textgroup {
   padding-left: 90px;
 }
 
-/* line 258, ../sass/style.sass */
+/* line 259, ../sass/style.sass */
 .form-control {
   background-color: #02456d;
   border: none;
@@ -357,162 +358,152 @@ footer .col-md-6 {
   border-radius: 0;
 }
 
-/* line 265, ../sass/style.sass */
+/* line 266, ../sass/style.sass */
 .runningstats {
   padding-bottom: 90px;
 }
 
-/* line 268, ../sass/style.sass */
+/* line 269, ../sass/style.sass */
 .video {
   padding: 60px;
   text-align: center;
   background-color: whitesmoke;
 }
-/* line 272, ../sass/style.sass */
+/* line 273, ../sass/style.sass */
 .video h2 {
   padding: 0px;
 }
 
-/* line 276, ../sass/style.sass */
+/* line 277, ../sass/style.sass */
 #social img {
   height: 40px;
 }
 
-/* line 280, ../sass/style.sass */
+/* line 281, ../sass/style.sass */
 footer a:link {
   font-size: 3em;
   color: white;
 }
 
-/* line 284, ../sass/style.sass */
+/* line 285, ../sass/style.sass */
 i {
   font-size: 3em;
   font-size-color: white;
 }
 
-/* line 289, ../sass/style.sass */
+/* line 290, ../sass/style.sass */
 .col-md-6 a {
   font-size: 3em;
   color: white;
 }
 
-/* line 293, ../sass/style.sass */
+/* line 294, ../sass/style.sass */
 iframe {
   width: 700px;
   height: 400px;
 }
 
 @media (max-width: 992px) {
-  /* line 299, ../sass/style.sass */
+  /* line 300, ../sass/style.sass */
   h1 {
     color: white;
   }
 
-  /* line 301, ../sass/style.sass */
+  /* line 302, ../sass/style.sass */
   .rungospot {
     height: 32em;
   }
-  /* line 303, ../sass/style.sass */
+  /* line 304, ../sass/style.sass */
   .rungospot h4 {
     text-align: left;
   }
-  /* line 305, ../sass/style.sass */
+  /* line 306, ../sass/style.sass */
   .rungospot p {
     text-align: left;
     margin-left: 0%;
     padding-left: 20%;
     padding-right: 20%;
   }
-  /* line 310, ../sass/style.sass */
+  /* line 311, ../sass/style.sass */
   .rungospot img {
     text-align: center;
     height: 400px;
   }
-  /* line 313, ../sass/style.sass */
+  /* line 314, ../sass/style.sass */
   .rungospot .col-md-6 {
     text-align: left;
   }
 
-  /* line 315, ../sass/style.sass */
+  /* line 316, ../sass/style.sass */
   #contactForm {
     padding: 0px;
   }
 
-  /* line 318, ../sass/style.sass */
+  /* line 319, ../sass/style.sass */
   #iphone1 img {
     height: 200px;
   }
 
-  /* line 320, ../sass/style.sass */
+  /* line 321, ../sass/style.sass */
   .brand-heading {
     text-align: center;
     padding-top: 60px;
   }
-  /* line 323, ../sass/style.sass */
+  /* line 324, ../sass/style.sass */
   .brand-heading img {
     width: 170px;
   }
 
-  /* line 325, ../sass/style.sass */
+  /* line 326, ../sass/style.sass */
   .intro-text {
     text-align: center;
   }
 
-  /* line 328, ../sass/style.sass */
+  /* line 329, ../sass/style.sass */
   #iphone1 img {
     height: 350px;
   }
 
-  /* line 330, ../sass/style.sass */
+  /* line 331, ../sass/style.sass */
   #app {
     text-align: center;
   }
 
-  /* line 332, ../sass/style.sass */
+  /* line 333, ../sass/style.sass */
   .col-md-4 {
     position: relative;
   }
 
-  /* line 334, ../sass/style.sass */
+  /* line 335, ../sass/style.sass */
   .section1 {
     margin-bottom: 400px;
     position: relative;
   }
 
-  /* line 337, ../sass/style.sass */
-  #phone2 {
-    display: none;
-  }
-
-  /* line 339, ../sass/style.sass */
-  #otherphone {
-    display: none;
-  }
-
-  /* line 341, ../sass/style.sass */
+  /* line 338, ../sass/style.sass */
   .textgroup {
     text-align: center;
     margin: 0 auto;
   }
-  /* line 344, ../sass/style.sass */
+  /* line 341, ../sass/style.sass */
   .textgroup h4 {
     test-align: center;
     margin: 0 auto;
   }
 
-  /* line 347, ../sass/style.sass */
+  /* line 344, ../sass/style.sass */
   .runningstats {
     margin: 0 auto;
     padding-top: 30px;
   }
-  /* line 350, ../sass/style.sass */
+  /* line 347, ../sass/style.sass */
   .runningstats p {
     padding-left: 20%;
     padding-right: 20%;
     margin: 0 auto;
     padding-bottom: 2em;
   }
-  /* line 355, ../sass/style.sass */
+  /* line 352, ../sass/style.sass */
   .runningstats h4 {
     color: #606060;
     text-align: center;
@@ -520,33 +511,33 @@ iframe {
     padding-left: 20%;
   }
 
-  /* line 360, ../sass/style.sass */
+  /* line 357, ../sass/style.sass */
   iframe {
     width: 300px;
     height: 250px;
   }
 
-  /* line 364, ../sass/style.sass */
+  /* line 361, ../sass/style.sass */
   .shoutout img {
     padding: 16px;
   }
 
-  /* line 366, ../sass/style.sass */
+  /* line 363, ../sass/style.sass */
   .intro-body {
     padding-left: 0px;
   }
-  /* line 369, ../sass/style.sass */
+  /* line 366, ../sass/style.sass */
   .intro-body #iphone1 img {
     height: 500px;
   }
 
-  /* line 372, ../sass/style.sass */
+  /* line 369, ../sass/style.sass */
   h2 {
     font-size: 2.8em;
   }
 }
 @media (max-width: 767px) {
-  /* line 377, ../sass/style.sass */
+  /* line 374, ../sass/style.sass */
   .brand-heading {
     padding-top: 0px;
   }
